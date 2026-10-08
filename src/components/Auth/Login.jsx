@@ -14,7 +14,7 @@ const [password, setPassword] = useState('')
     //  console.log('Password is :',password)
 
     handleLogin(email,password)
-
+ 
      setEmail("")
      setPassword("")
     }
